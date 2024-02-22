@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background: #1a1919;
+}
+
+.grande_div {
+  width: 400px;
+  height: 600px;
+  background: #333333;
+  margin: 100px auto;
+  position: relative;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.info {
+  height: 40%;
+  /* width: 100%; */
+  background: #fff;
+  position: relative;
+}
+
+.imag {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 500px;
+  margin: 0 auto;
+}
+
+h3,
+p {
+  text-align: center;
+}
+
+.buton {
+  margin-top: 20px;
+}
